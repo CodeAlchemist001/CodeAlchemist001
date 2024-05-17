@@ -34,13 +34,9 @@
 </p>
 
 <h2 align="center">My Stats</h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kryptonite-01&show_icons=true&locale=en&theme=vue-dark&layout=compact" alt="kryptonite-001" /> 
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kryptonite-01&show_icons=true&locale=en&theme=vue-dark" alt="kryptonite-01" />
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kryptonite-01&theme=vue-dark&mode=weekly" alt="kryptonite-01" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeAlchemist001&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="CodeAlchemist001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAlchemist001&show_icons=true&locale=en&theme=vue-dark" alt="CodeAlchemist001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeAlchemist001&theme=vue-dark" alt="CodeAlchemist001" /></p>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
